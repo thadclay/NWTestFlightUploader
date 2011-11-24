@@ -20,4 +20,4 @@ How-to
 * At minimum, supply `API_TOKEN` and `TEAM_TOKEN` (use the URLs to look them up in your TestFlight dashboard)
 * Done! To try it out, build the Archive scheme. At the end of the process the TestFlight upload 'wizard' will start.
 
-![Xcode4 Scheme Editor - Adding TestFlight integration script](https://github.com/noodlewerk/NWTestFlightUploader/blob/master/how-to-screenshot.png "Xcode4 TestFlight Integration Script")
+![Xcode4 Scheme Editor - Adding TestFlight integration script](https://github.com/noodlewerk/NWTestFlightUploader/raw/master/how-to-screenshot.png "Xcode4 TestFlight Integration Script")
