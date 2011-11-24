@@ -9,10 +9,15 @@ It provides a sequence of AppleScript dialogs to let you fill in the details of 
 * Selection of distribution list(s)
 
 ![Automatic upload to TestFlight- Screenshot](https://github.com/noodlewerk/NWTestFlightUploader/raw/master/screenshots/screenshot1.png "Automatic upload to TestFlight")
+
 ![TestFlight Build Script - Screenshot](https://github.com/noodlewerk/NWTestFlightUploader/raw/master/screenshots/screenshot2.png "TestFlight Build Script")
+
 ![TestFlight Upload API Xcode Integration - Screenshot](https://github.com/noodlewerk/NWTestFlightUploader/raw/master/screenshots/screenshot3.png "Xcode4 TestFlight Integration Script")
+
 ![Uploading automatically to TestFlight from Xcode - Screenshot](https://github.com/noodlewerk/NWTestFlightUploader/raw/master/screenshots/screenshot4.png "TestFlight Upload API Xcode Integration")
+
 ![Xcode4 Scheme Editor - Adding TestFlight integration script - Screenshot](https://github.com/noodlewerk/NWTestFlightUploader/raw/master/screenshots/screenshot5.png "Xcode4 TestFlight Integration Script")
+
 ![TestFlight Build Script - Screenshot](https://github.com/noodlewerk/NWTestFlightUploader/raw/master/screenshots/screenshot6.png "Xcode4 TestFlight Integration Script")
 
 How-to
